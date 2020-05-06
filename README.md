@@ -1,2 +1,2 @@
-# CodeNerve.github.io
-Terminal based portfolio website for CodeNerve
+# midlajme.github.io
+Terminal based portfolio website forked CodeNerve
