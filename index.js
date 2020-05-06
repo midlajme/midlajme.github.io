@@ -96,7 +96,7 @@ function replaceUrls(text) {
 }
 
 Typer.speed = 3;
-Typer.file = 'midlajme.txt';
+Typer.file = 'midlaj.txt';
 Typer.init();
 
 var timer = setInterval('t();', 30);
