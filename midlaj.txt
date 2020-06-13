@@ -1,5 +1,5 @@
-<span id="a">admin@linux</span>:<span id="b">~</span><span id="c">$</span> cd /home<!-- kjsdfhkjdhsfkjdshfkj -->About_Us
-<span id="a">admin@linux</span>:<span id="b">~</span><span id="c">$</span> sudo get  <!-- kjsdfhkjdhsfkjdshfkj -->update<br/><br/>
+<span id="a">midlaj@pro</span>:<span id="b">~</span><span id="c">$</span> cd /home<!-- kjsdfhkjdhsfkjdshfkj -->about_me
+<span id="a">midlaj@pro</span>:<span id="b">~</span><span id="c">$</span> sudo get  <!-- kjsdfhkjdhsfkjdshfkj -->update<br/><br/>
 result, "<span id="k">Update Successful!</span>". <!-- sjkfhskjf -->
 
 Hey There! I am midlaj, an underrated birb.<!-- laglaglaglaglaglaglaglaglaglaglaglag --><p>I love to fork others project and edit as mine (just for a resam:D).</p>
