@@ -2,7 +2,7 @@
 <span id="a">midlaj@pro</span>:<span id="b">~</span><span id="c">$</span> sudo get update<br/><br/>
 result, "<span id="k">Update Successful!</span>".
 
-Hey There! I am midlaj, an underrated birb. <p>I love to fork others project and edit as mine (just for a resam:D).</p>
+Hey There! I am midlaj, an underrated birb. <p>Read my personal blog <a href="https://blog.midlaj.space">here</></p>
 
 <p> Also i am a blogger, share web and tech related reviews and guides on my blog<a href="https://starterbytes.blogspot.com"> starterbytes</a>.</p>
 <p> Here my social profile links i have on Internet, here: <br> <a href="https://www.facebook.com/profile.php?id=100007520509362">Facebook</a> <br> <a href="https://twitter.com/im_midlaj">Twitter</a> <br> <a href="https://www.instagram.com/midlaj.me">Instagram</a> <br> <a href="https://github.com/midlajme">Github</a> <br> <a href="https://medium.com/@midlaj.me">Medium</a>.</p>
