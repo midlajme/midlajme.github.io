@@ -95,8 +95,8 @@ function replaceUrls(text) {
   }
 }
 
-Typer.speed = 3;
-Typer.file = 'code.txt';
+Typer.speed = 1;
+Typer.file = 'detector.txt';
 Typer.init();
 
 var timer = setInterval('t();', 30);
