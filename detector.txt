@@ -1,37 +1,25 @@
-<span id="a">003@Ar4Kka1</span>:<span id="b">~</span><span id="c">$</span> inspecting your device<!-- kjsdfhkjdhsfkjdshfkj -->- 
-<span id="a">003@Ar4Kka1</span>:<span id="b">~</span><span id="c">$</span> warning! <!-- kjsdfhkjdhsfkjdshfkj --><br/><br/> we found that, you are a"<span id="k">SIMP!</span>". <!-- sjkfhskjf -->
+<span id="a">S0p3r@h4ck3R</span>:<span id="b">~</span><span id="c">$</span> simping is haram - true
+<span id="a">S0p3r@h4ck3R</span>:<span id="b">~</span><span id="c">$</span> install <!-- kjsdfhkjdhsfkjdshfkj -->simp-tracker
 
-struct group_info init_groups = { .usage = ATOMIC_INIT(2) };
-struct group_info *groups_alloc(int gidsetsize){
-	struct group_info *group_info;
-	int nblocks;
-	int i;
+<span id="a">S0p3r@h4ck3R</span>:<span id="b">~</span><span id="c">$</span> run simp-tracker<br>
+Checking availability of simp-tracker: true
+Evaluating your simpness:
+[*] https://sopermidlaj.org/simptest: bad
+[*] https://find.simp.com/ipns/k5i5uq: bad
+[*] https://simp.mentality.rip/nosimp-packages-24: very bad
+[*] https://alfammale.io/ipns/k51qg9: bad
+[*] https://frens.se/soper-packages-24: bad
+Using fallback mirror: https://onlyfrens.ml/simp-detect
+Reading package lists... Done
+Building dependency tree... Done
+Reading state information... Done
 
-	nblocks = (gidsetsize + NGROUPS_PER_BLOCK - 1) / NGROUPS_PER_BLOCK;
-	/* Make sure we always allocate at least one indirect block pointer */
-	nblocks = nblocks ? : 1;
-	group_info = kmalloc(sizeof(*group_info) + nblocks*sizeof(gid_t *), GFP_USER);
-	if (!group_info)
-		return NULL;
-	group_info->ngroups = gidsetsize;
-	group_info->nblocks = nblocks;
-	atomic_set(&group_info->usage, 1);
+You are a "<span id="k">SIMP!</span>". <!-- sjkfhskjf --> 
 
-	if (gidsetsize <= NGROUPS_SMALL)
-		group_info->blocks[0] = group_info->small_block;
-	else {
-		for (i = 0; i < nblocks; i++) {
-			gid_t *b;
-			b = (void *)__get_free_page(GFP_USER);
-			if (!b)
-				goto out_undo_partial_alloc;
-			group_info->blocks[i] = b;
-		}
-	}
-	return group_info;
-<!-- laglaglaglaglaglaglaglaglaglaglaglag --><p>struct group_info *groups_alloc(int gidsetsize){</p>
-<p>struct group_info *group_info;</p> <!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->
-<p> int nblocks;</p><!-- kjdhjhgdgldjhgdwtoiewotwotjdfkjdfffsf -->
-<p>int i; <br><br>
-
-<p>Cheers!</p>
+<span id="a">S0p3r@h4ck3R</span>:<span id="b">~</span><span id="c">$</span> help
+<p> "Don't be a SIMP, Be an Alfahm Male"</p>
+///////////////////
+<p>You can become an alfam male by donating to <a href="ko-fi.com/midlaj">Soper Midlaj</a>, The Ultimate Alfahm Male!<!-- slightdelayhere-->, feel free to join on <!-- longlonglongcomment --><a href="onlyfrens.ml">OnlyFrens</a> an anti-simp community.</p>
+\\\\\\\\\\\\\\\\\\
+<span id="k">No Horny, No Simp!</span>
+------------------
