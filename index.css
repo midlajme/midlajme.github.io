@@ -4,7 +4,7 @@ body {
 }
 
 #console {
-	font-family: IBM Plex Mono;
+	font-family: Hack, monospace;
 	color: #fff;
 	width:auto;
 	margin-left:auto;
