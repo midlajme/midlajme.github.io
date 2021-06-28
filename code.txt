@@ -1,11 +1,11 @@
-<span id="a">[matrix]</span>:<span id="b">~</span><span id="c">$</span> checking...<!-- kjsdfhkjdhsfkjdshfkj -->- [matrix] up
-<span id="a">coder@nerve</span>:<span id="b">~</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->codenerve.txt<br/><br/>
-My favorite code quote, "<span id="k">Code for Everyone</span>". <!-- sjkfhskjf -->
+<span id="a">003@Ar4Kka1</span>:<span id="b">~</span><span id="c">$</span> inspecting your device<!-- kjsdfhkjdhsfkjdshfkj -->- 
+<span id="a">003@Ar4Kka1</span>:<span id="b">~</span><span id="c">$</span> warning! <!-- kjsdfhkjdhsfkjdshfkj --><br/><br/> we found that, you are a"<span id="k">SIMP!</span>". <!-- sjkfhskjf -->
 
-Hey There! This is the portflio website in the skin of a terminal.<!-- laglaglaglaglaglaglaglaglaglaglaglag --><p>You can see that, this is how your portfolio would look like.</p>
-<p>You can introduce yourself here.</p> <!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->
-<p> You can also tell what you've worked and known and what skills you have, you can also give link to your professional portfolio here<a href="link"> portfolio</a>.</p><!-- kjdhjhgdgldjhgdwtoiewotwotjdfkjdfffsf -->
-<p>Tell more about yourself. <br><br><br>Give your project links or something like that. <a href="link"> Here you go</a>.</p><!-- hsdgfhjfkdjhfkjsdhfkjdshfkjsdhfkjsdhkfjhdskjfhksdjhfkdsj -->
+struct group_info init_groups = { .usage = ATOMIC_INIT(2) };<!-- laglaglaglaglaglaglaglaglaglaglaglag --><p>struct group_info *groups_alloc(int gidsetsize){</p>
+<p>struct group_info *group_info;</p> <!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->
+<p> int nblocks;</p><!-- kjdhjhgdgldjhgdwtoiewotwotjdfkjdfffsf -->
+<p>int i; <br><br>
+
 
 <span id="a">[matrix]</span>:<span id="b">~</span><span id="c">$</span> load social links<!-- kjsdfhkjdhsfkjdshfkj -->- [matrix] up
 <span id="a">coder@nerve</span>:<span id="b">~</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->social
