@@ -1,15 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Mono&display=swap');
 body {
 	background-color: #000
 }
 
 #console {
-	font-family: courier, monospace;
+	font-family: IBM Plex Mono;
 	color: #fff;
-	width:750px;
+	width:auto;
 	margin-left:auto;
 	margin-right:auto;
-	margin-top:100px;
-	font-size:14px;
+	margin-top:auto;
+	font-size:20px;
 }
 
 a {
@@ -33,7 +34,7 @@ a {
     	animation: change 1s;
 }
 
-#op{
+#op {
     	color: #888888
 }
 
